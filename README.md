@@ -1,9 +1,8 @@
 
-Nandini Ramanan
-3.1 
+
 Answer on the ipthon doc attached.
-3.2 :
-lassifier which can’t be used for the task
+
+Classifier which can’t be used for the task
 a)Linear SVM 
 It currently only supports binary classification. This cannot be used for for multi-class classification.
 
