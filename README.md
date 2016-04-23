@@ -1,4 +1,4 @@
-Assignment 3
+
 Nandini Ramanan
 3.1 
 Answer on the ipthon doc attached.
