@@ -31,7 +31,7 @@ I got a significant performance improvement when I converted the bow vector into
 
 2. precision is "how useful the search results are", and recall is "how complete the results are" i.e., precision is the fraction of retrieved documents that are relevant to the query and Recall in information retrieval is the fraction of the documents that are relevant to the query that are successfully retrieved. Better precision, recall and Accuracy, better the model is
 
-Markup : ![picture alt](C:\Users\Nandini\Documents\Textbooks\Big data\Capture.jpg "Accuracy table")
+Markup : ![picture alt](https://github.com/nandhiniramanan5/Graphlab-for-multi-class-text-classification/blob/master/Capture.JPG "Accuracy table")
 
 
 It is always recommended to try different methods and see which one performs better on the given data. Using GraphLab Create it is easy to interchange methods and find the right one for my needs
